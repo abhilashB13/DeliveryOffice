@@ -1,0 +1,18 @@
+2017-03-29 23:34:00,081 WARN  [SoapUI] Missing folder [C:\git-repo\.\ext] for external libraries
+2017-03-29 23:34:00,287 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\abhilash\soapui-settings.xml]
+2017-03-29 23:34:00,618 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\git-repo\scripts]
+2017-03-29 23:34:01,004 INFO  [WsdlProject] Loaded project from [file:/C:/git-repo/Delivery-Office-Project-1-soapui-project.xml]
+2017-03-29 23:34:01,273 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-03-29 23:34:01,290 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-03-29 23:34:01,393 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [Google API]
+2017-03-29 23:34:01,395 INFO  [SoapUIProTestCaseRunner] Running TestSuite [Maps Test Suite -Maven], runType = SEQUENTIAL
+2017-03-29 23:34:01,418 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Get Location]
+2017-03-29 23:34:01,424 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-03-29 23:34:02,040 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-03-29 23:34:02,042 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Get Location], time taken: 456ms, status: FINISHED
+2017-03-29 23:34:02,043 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Copy of Get Location]
+2017-03-29 23:34:02,043 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-03-29 23:34:02,102 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-03-29 23:34:02,103 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Copy of Get Location], time taken: 44ms, status: FINISHED
+2017-03-29 23:34:02,104 INFO  [SoapUIProTestCaseRunner] TestSuite [Maps Test Suite -Maven] finished with status [FINISHED] in 704ms
+2017-03-29 23:34:02,747 INFO  [SoapUIProTestCaseRunner] Created report at file:/C:/Reports/target/surefire-reports/index.html
