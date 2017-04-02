@@ -1,43 +1,48 @@
-2017-04-02 23:25:45,497 WARN  [SoapUI] Missing folder [C:\git-repo\.\ext] for external libraries
-2017-04-02 23:25:45,732 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\abhilash\soapui-settings.xml]
-2017-04-02 23:25:46,129 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\git-repo\scripts]
-2017-04-02 23:25:46,648 INFO  [WsdlProject] Loaded project from [file:/C:/git-repo/Delivery-Office-Project-1-soapui-project.xml]
-2017-04-02 23:25:46,912 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,929 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,931 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,933 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,936 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,938 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:46,940 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2017-04-02 23:25:47,046 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [Google API]
-2017-04-02 23:25:47,048 INFO  [SoapUIProTestCaseRunner] Running TestSuite [Maps Test Suite -Maven], runType = SEQUENTIAL
-2017-04-02 23:25:47,055 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 1 Get Location]
-2017-04-02 23:25:47,086 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,200 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,200 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 1 Get Location], time taken: 981ms, status: FINISHED
-2017-04-02 23:25:48,204 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 2 Get Location]
-2017-04-02 23:25:48,204 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,365 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,365 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 2 Get Location], time taken: 116ms, status: FINISHED
-2017-04-02 23:25:48,366 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 3 Get Location]
-2017-04-02 23:25:48,367 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,439 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,439 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 3 Get Location], time taken: 62ms, status: FINISHED
-2017-04-02 23:25:48,440 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 4 Get Location]
-2017-04-02 23:25:48,441 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,502 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,502 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 4 Get Location], time taken: 51ms, status: FINISHED
-2017-04-02 23:25:48,503 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 5 Get Location]
-2017-04-02 23:25:48,504 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,678 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,679 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 5 Get Location], time taken: 159ms, status: FINISHED
-2017-04-02 23:25:48,682 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 6 Get Location]
-2017-04-02 23:25:48,684 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:48,741 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:48,741 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 6 Get Location], time taken: 43ms, status: FINISHED
-2017-04-02 23:25:48,743 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 7 Get Location]
-2017-04-02 23:25:48,744 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
-2017-04-02 23:25:49,011 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2017-04-02 23:25:49,011 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 7 Get Location], time taken: 260ms, status: FINISHED
-2017-04-02 23:25:49,011 INFO  [SoapUIProTestCaseRunner] TestSuite [Maps Test Suite -Maven] finished with status [FINISHED] in 1959ms
-2017-04-02 23:25:49,548 INFO  [SoapUIProTestCaseRunner] Created report at file:/C:/Reports/target/surefire-reports/index.html
+2017-04-02 23:35:31,272 WARN  [SoapUI] Missing folder [C:\git-repo\.\ext] for external libraries
+2017-04-02 23:35:31,834 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\abhilash\soapui-settings.xml]
+2017-04-02 23:35:32,612 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\git-repo\scripts]
+2017-04-02 23:35:33,527 INFO  [WsdlProject] Loaded project from [file:/C:/git-repo/Delivery-Office-Project-1-soapui-project.xml]
+2017-04-02 23:35:34,195 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,279 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,282 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,283 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,285 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,287 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,289 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,292 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2017-04-02 23:35:34,454 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [Google API]
+2017-04-02 23:35:34,456 INFO  [SoapUIProTestCaseRunner] Running TestSuite [Maps Test Suite -Maven], runType = SEQUENTIAL
+2017-04-02 23:35:34,469 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 1 Get Location]
+2017-04-02 23:35:34,507 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,075 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,077 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 1 Get Location], time taken: 1370ms, status: FINISHED
+2017-04-02 23:35:36,081 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 2 Get Location]
+2017-04-02 23:35:36,082 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,207 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,207 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 2 Get Location], time taken: 115ms, status: FINISHED
+2017-04-02 23:35:36,208 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 3 Get Location]
+2017-04-02 23:35:36,208 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,262 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,263 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 3 Get Location], time taken: 49ms, status: FINISHED
+2017-04-02 23:35:36,263 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 4 Get Location]
+2017-04-02 23:35:36,264 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,307 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,308 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 4 Get Location], time taken: 31ms, status: FINISHED
+2017-04-02 23:35:36,309 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 5 Get Location]
+2017-04-02 23:35:36,309 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,345 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,345 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 5 Get Location], time taken: 30ms, status: FINISHED
+2017-04-02 23:35:36,346 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 6 Get Location]
+2017-04-02 23:35:36,346 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,382 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,382 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 6 Get Location], time taken: 29ms, status: FINISHED
+2017-04-02 23:35:36,383 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 7 Get Location]
+2017-04-02 23:35:36,383 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,525 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,525 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 7 Get Location], time taken: 136ms, status: FINISHED
+2017-04-02 23:35:36,526 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Test Case 8 Get Location]
+2017-04-02 23:35:36,526 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-04-02 23:35:36,642 INFO  [SoapUIProTestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2017-04-02 23:35:36,643 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Test Case 8 Get Location], time taken: 110ms, status: FINISHED
+2017-04-02 23:35:36,643 INFO  [SoapUIProTestCaseRunner] TestSuite [Maps Test Suite -Maven] finished with status [FINISHED] in 2178ms
+2017-04-02 23:35:37,798 INFO  [SoapUIProTestCaseRunner] Created report at file:/C:/Reports/target/surefire-reports/index.html
